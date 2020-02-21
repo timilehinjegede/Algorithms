@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e966944-d53f-4a4e-85b1-272fd3a3a8bd" name="Default Changelist" comment="" />
+    <list default="true" id="1e966944-d53f-4a4e-85b1-272fd3a3a8bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/InsertionSort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y5l2PkZYLhZvfDBZaPJLGYtkfc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.searching.BinarySearchKt">
+  <component name="RunManager" selected="Kotlin.sorting.SelectionSortKt">
     <configuration name="searching.BinarySearchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="VM_PARAMETERS" />
@@ -50,8 +64,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sorting.BubbleSortKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="sorting.BubbleSortKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorting.InsertionSortKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="sorting.InsertionSortKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sorting.SelectionSortKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSortKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.sorting.SelectionSortKt" />
+        <item itemvalue="Kotlin.sorting.InsertionSortKt" />
+        <item itemvalue="Kotlin.sorting.BubbleSortKt" />
         <item itemvalue="Kotlin.searching.BinarySearchKt" />
         <item itemvalue="Kotlin.searching.LinearSearchKt" />
       </list>
@@ -71,21 +127,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="641" height="179" key="GridCell.Tab.0.bottom" timestamp="1582244211921">
+    <state width="641" height="179" key="GridCell.Tab.0.bottom" timestamp="1582286512648">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="641" height="179" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582244211920" />
-    <state width="641" height="179" key="GridCell.Tab.0.center" timestamp="1582244211919">
+    <state width="641" height="179" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582286512648" />
+    <state width="641" height="179" key="GridCell.Tab.0.center" timestamp="1582286512645">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="641" height="179" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582244211919" />
-    <state width="641" height="179" key="GridCell.Tab.0.left" timestamp="1582244211919">
+    <state width="641" height="179" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582286512645" />
+    <state width="641" height="179" key="GridCell.Tab.0.left" timestamp="1582286512644">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="641" height="179" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582244211919" />
-    <state width="641" height="179" key="GridCell.Tab.0.right" timestamp="1582244211920">
+    <state width="641" height="179" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582286512644" />
+    <state width="641" height="179" key="GridCell.Tab.0.right" timestamp="1582286512645">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="641" height="179" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582244211920" />
+    <state width="641" height="179" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582286512645" />
+    <state x="21" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582284903575">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="21" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582284903575" />
   </component>
 </project>
