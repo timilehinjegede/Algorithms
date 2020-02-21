@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e966944-d53f-4a4e-85b1-272fd3a3a8bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y5l2PkZYLhZvfDBZaPJLGYtkfc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.searching.BinarySearchKt">
+    <configuration name="searching.BinarySearchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="searching.BinarySearchKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="searching.LinearSearchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="searching.LinearSearchKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.searching.BinarySearchKt" />
+        <item itemvalue="Kotlin.searching.LinearSearchKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e966944-d53f-4a4e-85b1-272fd3a3a8bd" name="Default Changelist" comment="" />
+      <created>1582240128613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582240128613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="641" height="179" key="GridCell.Tab.0.bottom" timestamp="1582244211921">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="641" height="179" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582244211920" />
+    <state width="641" height="179" key="GridCell.Tab.0.center" timestamp="1582244211919">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="641" height="179" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582244211919" />
+    <state width="641" height="179" key="GridCell.Tab.0.left" timestamp="1582244211919">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="641" height="179" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582244211919" />
+    <state width="641" height="179" key="GridCell.Tab.0.right" timestamp="1582244211920">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="641" height="179" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582244211920" />
+  </component>
+</project>
